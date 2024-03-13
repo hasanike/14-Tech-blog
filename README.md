@@ -12,7 +12,7 @@ The purpose of this assignment was to build a CMS style blog site in order to fa
   - [Images](#images)
   - [Deployed](#deployed)
 ## Acceptance Criteria
-- [alt text](/Images/Screenshot%202024-03-12%20at%205.18.09%20PM.png "Acceptance Criteria")
+- ![alt text](/Images/Screenshot%202024-03-12%20at%205.18.09%20PM.png "Acceptance Criteria")
   
 ## Technologies
 - Express
