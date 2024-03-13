@@ -22,3 +22,5 @@ The purpose of this assignment was to build a CMS style blog site in order to fa
 ## Images 
 
 ## Deployed 
+ https://hasanike.github.io/14-Tech-blog/
+ 
